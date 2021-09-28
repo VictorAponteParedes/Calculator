@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(43, 104, 104);
+}
+
+
+
+
+.calculadora{
+display: block;
+margin: 0 auto;
+padding: 20px;
+background-color:red;
+width: 300px;
+height: 500px;
+border-radius: 25px;
+box-shadow: 10px 8px;
+border-style: double;
+position:static;
+
+
+
+
+}
+#igual{
+    background-color: rgb(226, 109, 67);
+}
+#multiplicacion{
+    background-color: rgb(226, 109, 67);
+}
+#division{
+    background-color: rgb(226, 109, 67);
+}
+#resetar{
+    background-color: rgb(226, 109, 67);
+}
+#suma{
+    background-color: rgb(226, 109, 67);
+}
+#resta{
+    background-color: rgb(226, 109, 67);
+}
+#reset{
+    background-color: rgb(226, 109, 67);
+}
+ 
+
+
+.calculadora td button{
+    display:block;
+    width:60px;
+    height:60px;
+    font-size:25px;
+    margin-top: 5px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    
+ 
+}
+
+#resultado{
+ display: block;
+ text-align: center;
+ font-size: 40px;
+ margin-bottom: 50px;
+ width: 252px;
+ height: 100px;
+ line-height: 100px;
+ background-color: ;
+ border-radius: 10px;
+ overflow-y: scroll;
+ background-color:  rgb(194, 199, 204);
+
+}
+
+
+
+
+
+.nombre{
+    font-family: 'Dancing Script', cursive; 
+    font-size: 70px;
+    color: rgb(86, 212, 86);
+    text-shadow: black 6px 6px;
+    text-align: center;
+   
+}
+
+
